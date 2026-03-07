@@ -27,7 +27,7 @@ while True:
    else:
       print ("Chutou baixo! O número é maior que isso...")
 
-      
+
 print ("Número de tentativas: " + str(n_choices ))
       
       
